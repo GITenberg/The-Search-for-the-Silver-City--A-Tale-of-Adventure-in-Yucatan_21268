@@ -1,0 +1,36 @@
+_repo: The-Search-for-the-Silver-City--A-Tale-of-Adventure-in-Yucatan_21268
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21268-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2007-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21268'
+  lccn: '12034825'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Yucatán (Mexico : State) -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Accidents -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Sailing -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: 'The Search for the Silver City: A Tale of Adventure in Yucatan'
+url: http://www.gutenberg.org/ebooks/21268
